@@ -1,0 +1,104 @@
+.body {
+    width: 300px;
+    height: 300px;
+    background-color: whitesmoke;
+    border-radius: 50%;
+    position: absolute;
+    right: 300px;
+    top:500px;
+}
+
+.torso{
+    width: 250px;
+    height: 250px;
+    background-color: whitesmoke;
+    border-radius: 50%;
+    position: absolute;
+    right: 325px;
+    top: 290px;
+}
+
+
+.head {
+    width: 180px;
+    height: 180px;
+    background-color: whitesmoke;
+    border-radius: 50%;
+    position: absolute;
+    right: 360px;
+    top:135px
+}
+
+
+.button_one {
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    right: 440px;
+    top:450px
+}
+
+
+.button_two {
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    right: 440px;
+    top:390px
+}
+
+
+.button_three {
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    right: 440px;
+    top:330px
+}
+
+
+.nose{
+    height: 10px;
+    width: 0px;
+    border-left: 70px solid transparent;
+    border-right: 0px solid transparent;
+    border-bottom: 30px solid orange;
+    position: absolute;
+    top: 220px;
+    right: 450px;
+    
+}
+
+
+.eye_one {
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    top: 180px;
+    right: 420px;
+}
+
+
+.eye_two {
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    top: 180px;
+    right: 480px;
+}
+
+.background {
+    width:2000px;
+    height:900px;
+    background-color:rgb(75, 75, 255);
+}
