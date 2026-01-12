@@ -6,6 +6,7 @@
     position: absolute;
     right: 300px;
     top:500px;
+    box-shadow: 20px 10px 50px 10px;
 }
 
 .torso{
@@ -16,6 +17,7 @@
     position: absolute;
     right: 325px;
     top: 290px;
+    box-shadow: 20px 10px 50px 10px;
 }
 
 
@@ -26,7 +28,8 @@
     border-radius: 50%;
     position: absolute;
     right: 360px;
-    top:135px
+    top:135px;
+    box-shadow: 20px 10px 50px 10px;
 }
 
 
@@ -70,7 +73,7 @@
     border-right: 0px solid transparent;
     border-bottom: 30px solid orange;
     position: absolute;
-    top: 220px;
+    top: 210px;
     right: 450px;
     
 }
@@ -96,6 +99,137 @@
     top: 180px;
     right: 480px;
 }
+
+
+.smile_one {
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    top: 260px;
+    right: 490px;
+}
+
+
+.smile_two {
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    top: 270px;
+    right: 470px;
+}
+
+
+.smile_three {
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    top: 275px;
+    right: 445px;
+}
+
+
+.smile_four {
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    top: 270px;
+    right: 420px;
+}
+
+
+.smile_five {
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    top: 260px;
+    right: 400px;
+}
+
+
+.left_hand {
+    width:200px;
+    height:20px;
+    background-color: brown;
+    position: absolute;
+    top: 450px;
+    right: 520px;
+    rotate: -45deg;
+}
+
+
+.right_hand {
+    width:200px;
+    height:20px;
+    background-color: brown;
+    position: absolute;
+    top: 450px;
+    right: 190px;
+    rotate: 45deg;
+}
+
+
+.bottom {
+    width:120px;
+    height:20px;
+    background-color: black;
+    position: absolute;
+    top: 130px;
+    right: 390px;
+}
+
+
+.red {
+    width:60px;
+    height:20px;
+    background-color: red;
+    position: absolute;
+    top: 110px;
+    right: 420px;
+    z-index: 2;
+}
+
+
+.top {
+    width:60px;
+    height:90px;
+    background-color: black;
+    position: absolute;
+    top: 40px;
+    right: 420px;
+}
+
+
+.left_leg {
+    width:60px;
+    height:20px;
+    background-color: brown;
+    position: absolute;
+    top: 750px;
+    right: 520px;
+    rotate: -45deg;
+}
+
+
+.right_leg {
+    width:60px;
+    height:20px;
+    background-color: brown;
+    position: absolute;
+    top: 755px;
+    right: 320px;
+    rotate: 45deg;
+}
+
 
 .background {
     width:2000px;
