@@ -32,7 +32,7 @@
     box-shadow: 20px 10px 50px 10px;
 }
 
-
+/* this is part of the stomach */
 .button_one {
     width: 20px;
     height: 20px;
@@ -40,10 +40,10 @@
     border-radius: 50%;
     position: absolute;
     right: 440px;
-    top:450px
+    top:450px;
 }
 
-
+/* this is part of the stomach */
 .button_two {
     width: 20px;
     height: 20px;
@@ -54,7 +54,7 @@
     top:390px
 }
 
-
+/* this is part of the stomach */
 .button_three {
     width: 20px;
     height: 20px;
@@ -177,7 +177,7 @@
     rotate: 45deg;
 }
 
-
+/* Bottom part of the top hat */
 .bottom {
     width:120px;
     height:20px;
@@ -187,7 +187,7 @@
     right: 390px;
 }
 
-
+/* the red thats part of the hat */
 .red {
     width:60px;
     height:20px;
@@ -198,7 +198,7 @@
     z-index: 2;
 }
 
-
+/* the top part of the top hat */
 .top {
     width:60px;
     height:90px;
